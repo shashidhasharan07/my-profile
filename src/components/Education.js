@@ -6,7 +6,7 @@ function Education() {
       <h2>Education</h2>
       <div className="education-item">
         <h3>BE in Computer Science</h3>
-        <p>Angadi College, Belagavi</p>
+        <p>ANGADI INSTITUTE OF TECHNOLOGY AND MANAGEMENT BELAGAVI</p>
         <p>2020 - Present</p>
       </div>
     </section>
